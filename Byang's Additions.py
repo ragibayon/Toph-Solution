@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Fri Jan 24 17:01:28 2020
 
-This is a temporary script file.
+@author: Ragib Shahariar Ayon
 """
 x=input()
 
