@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 22 21:23:04 2020
 
-@author: hp
+@author: ayon
 """
 
 x=input()
